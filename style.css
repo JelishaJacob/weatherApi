@@ -1,0 +1,50 @@
+body{
+    background: url('https://media1.giphy.com/media/7bQVId5TjTgFnp6z1A/giphy.gif?cid=6c09b952bd05rjk5p98tzh0kak4vwo6tthkmhr0mnfnrc3et&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s');
+    background-size:auto;
+    
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: white;
+    background-color:     #071e60;
+    
+}
+#header{
+    text-align: center;
+    margin: 43px 0px 33px 0px;
+    font-family:cursive;
+}
+
+.form{
+    width: 30%;
+    height: 505px;
+    padding: 80px 26px 26px;
+    background-color: rgb(245 245 245 / 44%);
+    color: black;
+    border-radius: 26px;
+}
+
+.form input{
+    height: 30px;
+    width: 350px;
+    border-radius: 8px;
+    border: 2px solid blakc;
+    font-size: 16px;
+    padding: 8px;
+}
+
+#searchBtn{
+    /* margin-right: 238px; */
+    height: 40px;
+    width: 100px;
+    border-radius: 8px;
+    border: 2px solid black;
+    /* font-size: 16px; */
+}
+
+#wData{
+    text-align: center;
+    margin-top: 60px;
+    font-size: 30px;
+    font-family:cursive;
+}
